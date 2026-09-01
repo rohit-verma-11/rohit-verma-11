@@ -55,11 +55,11 @@ I specialize in building efficient, scalable web applications using the MERN sta
   </a>
    <!-- Python -->
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-%23007396.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
-   <!-- Java -->
+   <!-- C/C++ -->
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="C/C++" />
+    <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=cpp&logoColor=white" alt="C/C++" />
   </a>
   <!-- OOPs -->
   <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank">
