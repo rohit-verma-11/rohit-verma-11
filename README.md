@@ -6,8 +6,8 @@ I specialize in building efficient, scalable web applications using the MERN sta
 
 ---
 
-- 🌐 All of my projects are available at [Portfolio](https://deepanshuheer.vercel.app)  
-- 💬 Ask me about **ReactJS, Node.js, Express, MongoDB**  
+<!-- - 🌐 All of my projects are available at [Portfolio](https://deepanshuheer.vercel.app)  -->
+<!-- - 💬 Ask me about **ReactJS, Node.js, Express, MongoDB**  -->
 - 📧 How to reach me: **rohitvermaoff0@gmail.com**
 
 ---
