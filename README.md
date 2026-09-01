@@ -8,13 +8,13 @@ I specialize in building efficient, scalable web applications using the MERN sta
 
 - 🌐 All of my projects are available at [Portfolio](https://deepanshuheer.vercel.app)  
 - 💬 Ask me about **ReactJS, Node.js, Express, MongoDB**  
-- 📧 How to reach me: **deepanshuheer27@gmail.com**
+- 📧 How to reach me: **rohitvermaoff0@gmail.com**
 
 ---
 
 ### **Connect with me**  
-[![Gmail](https://img.shields.io/badge/Email-deepanshuheer27@gmail.com-red)](mailto:deepanshuheer27@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-deep01-orange)](https://www.leetcode.com/deep01)  
+[![Gmail](https://img.shields.io/badge/Email-rohitvermaoff0@gmail.com-red)](mailto:rohitvermaoff0@gmail.com)  
+<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-deep01-orange)](https://www.leetcode.com/deep01)  -->
 
 ---
 
