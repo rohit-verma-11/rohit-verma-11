@@ -71,12 +71,5 @@ I specialize in building efficient, scalable web applications using the MERN sta
   </a>
 </div>
 
-## 📚 Most Used Languages:
-<p >
-  <a href="https://github.com/deep0133">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep0133&langs_count=8&layout=compact&theme=radical" alt="Deepanshu's Most Used Languages" />
-  </a>
-</p>
-
 
 ---
