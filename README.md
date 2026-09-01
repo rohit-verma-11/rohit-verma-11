@@ -55,7 +55,7 @@ I specialize in building efficient, scalable web applications using the MERN sta
   </a>
    <!-- Python -->
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
    <!-- Java -->
   <a href="https://www.java.com/" target="_blank">
